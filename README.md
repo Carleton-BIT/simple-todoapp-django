@@ -2,7 +2,7 @@
 ## Steps to get this django app running on your own PC
 
 1) Open a terminal and navigate to the folder you want to create your project in (e.g. `cd ~Documents/Code`)
-2) Clone this repository with `git clone https://github.com/Carleton-BIT/simple-todoapp-django.git`
+2) Clone this repository with `git clone LINK-TO-THIS-REPOSITORY`
 3) Open the repository with PyCharm. You can do this by going file->open and selecting the cloned folder called `simple-todoapp-django`
 4) Configure your project interpreter. Go to file->settings, and selecting Python Interpreter under `Project: simple-todoapp-django`, and clicking Add Interpreter->Add Local Interpreter
 ![screenshot for adding interpreter](readme_assets/add-interpreter.PNG)
